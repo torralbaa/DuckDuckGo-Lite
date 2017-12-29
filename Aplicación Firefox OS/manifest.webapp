@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "Duck Duck Go Lite",
+  "description": "",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/decode.png",
+    "48": "/img/images.duckduckgo.com.png",
+    "60": "/img/images.duckduckgo.com.png",
+    "128": "/img/images.duckduckgo.com.png"
+  },
+  "developer": {
+    "name": "Ramon Hidalgo",
+    "url": "http://192.168.10.186:"
+  },
+  "type": "web",
+  "permissions": {},
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "es": {
+      "name": "Duck Duck Go Lite",
+      "description": "",
+      "permissions": {}
+    }
+  },
+  "default_locale": "es"
+}
