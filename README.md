@@ -9,4 +9,3 @@ Para clonar el repositorio, simplemente ingrese el siguiente comando en su termi
 $ git clone https://github.com/Alvarito050506/DuckDuckGo-Lite.git
 ```
 
-[DuckDuckHack (desrrollo de DuckDuckGo)](https://www.duckduckhack.com)
