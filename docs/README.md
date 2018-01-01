@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/Alvarito050506/DuckDuckGo-Lite/master/docs/decoded.png) 
 # DuckDuckGo-Lite
+![](https://raw.githubusercontent.com/Alvarito050506/DuckDuckGo-Lite/master/docs/decoded.png) 
 Apps, programas y opensearchs basados en DuckDuckGo Lite
 
 
