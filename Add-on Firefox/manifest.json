@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "DuckDuckGo Lite",
+  "description": "",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images.duckduckgo.com.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "http://www.duckduckgo.com/",
+	"http://www.duckduckgo.com/lite",
+	"notifications"
+  ]
+}

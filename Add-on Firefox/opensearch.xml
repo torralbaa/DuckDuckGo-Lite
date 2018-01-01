@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>DuckDuckGo Lite</ShortName>
+  <Description>Búsqueda DuckDuckGo (versión Lite)</Description>
+  <Contact>donfrutosgomez@gmail.com</Contact>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <LongName>Búsqueda DuckDuckGo Lite</LongName>
+  <Image height="16" width="16" type="image/x-icon">https://duckduckgo.com/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://duckduckgo.com/lite/">
+    <Param name="q" value="{searchTerms}"/>  
+  </Url>
+  <Url type="application/x-suggestions+json" template="https://duckduckgo.com/ac/?q={searchTerms}&amp;type=list"/>
+  <Developer>DuckDuckGo.com Team</Developer>
+  <Language>*</Language>
+</OpenSearchDescription>
