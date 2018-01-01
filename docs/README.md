@@ -10,11 +10,11 @@ Podés contribuir subiendo el código de tu add-on, opensearch, programa, app, o
 
 #### ¿Cómo conseguir el código?
 Para conseguir el código existen dos opcciones:
-+ Clonar el repositorio
++ Clonar el repositorio  
 Para clonar el repositorio, ingrese en su terminal el siguiente comando:
 ```shell
 $ git clone https://github.com/Alvarito050506/DuckDuckGo-Lite.git
 ```
-+ Descargar los archivos
++ Descargar los archivos  
 Para descargar los archivos, vaya a <https://www.github.com/Alvarito050506/DuckDuckGo-Lite> y haga click en "download", o, simplemente haga click en el siguiente enlace:
 [Descargar en formato .zip](https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip)
