@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Alternativa DuckDuckGo-Lite</title>
+    <language>es-ar</language>
+    <item>
+      <title>¿Qué es?</title>
+      <description>Es un repositorio abierto para cualquier proyecto basado en DuckDuckGo, desrrollados con cualquier tecnología, para cualquier plataforma y/o entorno.</description>
+      <link>https://alvarito050506.github.io/DuckDuckGo-Lite/#qué-es</link>
+    </item>
+    <item>
+      <title>¿Cómo contribuir?</title>
+      <description>Podés contribuir subiendo el código de tu add-on, opensearch, programa, app, o buscador basado en duckduckgo.
+</description>
+      <link>https://alvarito050506.github.io/DuckDuckGo-Lite/#cómo-contribuir</link>
+    </item>
+    <item>
+      <title>¿Cómo conseguir el código?</title>
+      <description>Para conseguir el código existen dos opcciones:
+Clonar el repositorio: Para clonar el repositorio, ingrese en su terminal el siguiente comando:
+$ git clone https://github.com/Alvarito050506/DuckDuckGo-Lite.git
+Descargar los archivos: Para descargar los archivos, vaya a https://www.github.com/Alvarito050506/DuckDuckGo-Lite y haga click en “download”, o, simplemente haga click en el link “descargar” a lo último del archivo.</description>
+      <link>https://alvarito050506.github.io/DuckDuckGo-Lite/#cómo-conseguir-el-código</link>
+    </item>
+    <item>
+      <title>Descargar:</title>
+      <description>https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip</description>
+      <link>https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip</link>
+      </item>
+  </channel>
+</rss>
