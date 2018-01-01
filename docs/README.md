@@ -15,5 +15,7 @@ Para conseguir el código existen dos opcciones:
 ```shell
 $ git clone https://github.com/Alvarito050506/DuckDuckGo-Lite.git
 ```
-+ Descargar los archivos: Para descargar los archivos, vaya a <https://www.github.com/Alvarito050506/DuckDuckGo-Lite> y haga click en "download", o, simplemente haga click en el siguiente enlace:   
++ Descargar los archivos: Para descargar los archivos, vaya a <https://www.github.com/Alvarito050506/DuckDuckGo-Lite>
+![](https://github.com/Alvarito050506/DuckDuckGo-Lite/blob/master/docs/docs1.PNG?raw=true)
+y haga click en "download", o, simplemente haga click en el siguiente enlace:   
 [Descargar en formato .zip](https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip)
