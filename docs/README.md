@@ -18,4 +18,4 @@ $ git clone https://github.com/Alvarito050506/DuckDuckGo-Lite.git
 + Descargar los archivos: Para descargar los archivos, vaya a <https://www.github.com/Alvarito050506/DuckDuckGo-Lite>
 ![](docs1.PNG)
 y haga click en "download", o, simplemente haga click en el siguiente enlace:   
-[:package:](https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip)
+[:package:](../master.zip)
