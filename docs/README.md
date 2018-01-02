@@ -1,5 +1,5 @@
 # DuckDuckGo-Lite
-![](https://raw.githubusercontent.com/Alvarito050506/DuckDuckGo-Lite/master/docs/decoded.png) 
+![](decoded.png) 
 Apps, programas y opensearchs basados en DuckDuckGo Lite
 
 
@@ -16,6 +16,6 @@ Para conseguir el código existen dos opcciones:
 $ git clone https://github.com/Alvarito050506/DuckDuckGo-Lite.git
 ```
 + Descargar los archivos: Para descargar los archivos, vaya a <https://www.github.com/Alvarito050506/DuckDuckGo-Lite>
-![](https://github.com/Alvarito050506/DuckDuckGo-Lite/blob/master/docs/docs1.PNG?raw=true)
+![](docs1.PNG)
 y haga click en "download", o, simplemente haga click en el siguiente enlace:   
-[Descargar en formato .zip](https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip)
+[:package:](https://github.com/Alvarito050506/DuckDuckGo-Lite/archive/master.zip)
